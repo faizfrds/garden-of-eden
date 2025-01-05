@@ -24,8 +24,9 @@ void setup(void) {
   lcd.backlight();
   lcd.clear();
   lcd.print(" Garden of Eden");
-  delay(500);
-  lcd.print("  Faiz Firdaus  ");
+  lcd.setCursor(0, 1);
+  lcd.print(" Faiz Firdaus");
+  delay(1000);
   Serial.begin(9600);  // initializing seial communication at 9600 bits/s
   sensors.begin();
   dht.begin();
@@ -59,7 +60,7 @@ void loop(void) {
 
   if (temp > 30) {
     warning(false, "temperature");
-  } else if (temp < 20){
+  } else if (temp < 20) {
     warning(true, "temperature");
   }
 
@@ -68,6 +69,7 @@ void loop(void) {
   Serial.println("%");
   lcd.setCursor(4, 0);
   lcd.print(soilmoist);
+  lcd.print(" ");
   humidity = dht.readHumidity();
 
   if (isnan(humidity)) {
