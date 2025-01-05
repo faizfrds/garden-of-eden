@@ -52,14 +52,15 @@ void loop(void) {
     soilmoist = 100;
   } else if (soilmoist <= 0) {
     soilmoist = 0;
-  } else if (soilmoist >= 80) {  //range for optimal germination is 21%-80% moisture
+  } else if (soilmoist >= 80) {  //range for optimal germination is 20%-80% moisture
     warning(false, "moisture");
-  } else if (soilmoist <= 20) {  //range for optimal germination is 21%-80% moisture
+  } else if (soilmoist <= 20) { 
     warning(true, "moisture");
   }
 
+  //temperature checker
   if (temp > 30) {
-    warning(false, "temperature");
+    warning(false, "temperature"); //range for optimal temperature is 20c - 30c
   } else if (temp < 20) {
     warning(true, "temperature");
   }
