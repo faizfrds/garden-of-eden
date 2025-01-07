@@ -21,4 +21,4 @@ This small project aims to demonstrate smart farming at a smaller and more acces
 
 ## Schematic
 
-[![schematic]( https://drive.google.com/file/d/1MO66WP_bdBj-YIjA9SOAQUHQ0Rbu8wZU/view)](https://github.com/faizfrds/garden-of-eden/blob/main/schematic.png)
+[![schematic](schematic.png)
