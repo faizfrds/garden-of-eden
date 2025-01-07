@@ -20,5 +20,5 @@ This small project aims to demonstrate smart farming at a smaller and more acces
 - DC Mini Submersible Water Pump
 
 ## Schematic
-
-[![schematic](schematic.png)
+Sample schematic (not the same as one used)
+[schematic](schematic.png)
