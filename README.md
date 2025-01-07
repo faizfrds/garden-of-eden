@@ -1,3 +1,5 @@
+![smart farming](https://www.gruber-genetti.it/img/magazin/2019/smart-farming-teil-1-4.0web.jpg)
+
 # Motivation
 As the global population continues to surge and the climate becomes increasingly unstable, agriculture is under immense pressure to meet growing food demands. Currently, traditional agricultural practices make up a majority of the agriculture industry worldwide. However, it is unsuitable for meeting the rising global demands for food security and environmental sustainability; the intensive manual labor and the reliance on traditional knowledge produce ineffective crop yields and often waste natural resources, posing a significant threat to food security and sustainability. As a result, it is reasonable to redirect our attention to automated, data-driven technological solutions capable of addressing these concerns. 
 
