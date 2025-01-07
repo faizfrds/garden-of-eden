@@ -21,4 +21,4 @@ This small project aims to demonstrate smart farming at a smaller and more acces
 
 ## Schematic
 Sample schematic (not the same as one used)
-[schematic](schematic.png)
+![schematic](schematic.png)
