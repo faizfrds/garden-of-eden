@@ -19,3 +19,6 @@ This small project aims to demonstrate smart farming at a smaller and more acces
 - Relay Module 12V 1 channel
 - DC Mini Submersible Water Pump
 
+## Schematic
+
+![alt text]( https://drive.google.com/file/d/1MO66WP_bdBj-YIjA9SOAQUHQ0Rbu8wZU/view)
