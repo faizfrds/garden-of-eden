@@ -24,3 +24,9 @@ This small project aims to demonstrate smart farming at a smaller and more acces
 ## Schematic
 Sample schematic (not the same as one used)
 ![schematic](schematic.png)
+
+### Read My White Paper
+
+![How can machine learning improve
+agricultural productivity while promoting
+environmental sustainability?](https://drive.google.com/file/d/1L62fbn-kpfUNysDj03j6U7_1rvul3V-9/view?usp=drive_link)
