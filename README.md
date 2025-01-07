@@ -12,9 +12,10 @@ This small project aims to demonstrate smart farming at a smaller and more acces
 
 - NodeMCU ESP8266 V3
 - Capacitive Soil Moisture Sensor v2.0
-- Temperature Sensor (DS1820)
+- Digital Thermometer (DS18B20)
 - Humidity Sensor (DHT11)
 - LCD Display 16x2
 - I2C LCD Module
 - Relay Module 12V 1 channel
 - DC Mini Submersible Water Pump
+
