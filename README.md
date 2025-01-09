@@ -8,7 +8,7 @@ Agriculture 4.0, also known as smart farming, aims to address these issues. Smar
 
 ## Description
 
-This small project aims to demonstrate smart farming at a smaller and more accessible scale. It is part of my ongoing research of smart farming and the nature-technology interdisciplinary. This mini project uses a microcontroller equipped with temperature, humidity, and soil moisture sensors to automate a water-pumping mechanism for irrigation and humidity control. The project can easily be replicated by obtaining the same components. The goal of this project is to educate others on the compelling benefits that technology can have on nature.
+This small project aims to demonstrate smart farming on a smaller and more accessible scale. It is part of my ongoing research of smart farming and the nature-technology interdisciplinary. This mini project uses a microcontroller equipped with temperature, humidity, and soil moisture sensors to automate a water-pumping mechanism for irrigation and humidity control. The project can easily be replicated by obtaining the same components. The goal of this project is to educate others on the compelling benefits that technology can have on nature.
 
 ## Materials
 
